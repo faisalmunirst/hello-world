@@ -1,5 +1,5 @@
-{"server":1,"ip":"35.242.171.234","Name":"beer","file":"beer.mp4","thumb":"beer.png","pic":"beer.png","category":"food"}
-{"server":2,"ip":"35.242.171.234","Name":"cat","file":"cat.mp4","thumb":"cat.png","pic":"cat.png","category":"animal"}
-{"server":3,"ip":"35.242.171.234","Name":"nature_01","file":"nature_01.mp4","thumb":"nature_01.png","pic":"nature_01.png","category":"nature"}
-{"server":4,"ip":"35.242.171.234","Name":"nature_02","file":"nature_02.mp4","thumb":"nature_02.png","pic":"nature_02.png","category":"thrill"}
-{"server":5,"ip":"35.242.171.234","Name":"nature_03","file":"nature_03.mp4","thumb":"nature_03.png","pic":"nature_03.png","category":"documentry"}
+{"video":{"server":1,"ip":"35.246.105.38","Name":"beer","file":"beer.mp4","thumb":"beer.JPG","pic":"beer.JPG","uuid":"380613d5-71b3-4f24-8a58-ca1a260b49d3","category":"cassandra","category":"shorts"}}
+{"video":{"server":2,"ip":"35.246.105.38","Name":"cat","file":"cat.mp4","thumb":"cat.JPG","pic":"cat.JPG","uuid":"08d205c9-cc33-4475-ba25-d24ff0426470","category":"cassandra"} }
+{"video":{"server":3,"ip":"35.246.105.38","Name":"nature_01","file":"nature_01.mp4","thumb":"nature_01.JPG","pic":"nature_01.JPG","uuid":"38a817da-7728-4658-9ecd-44cf638daa81","category":"cassandra"}}
+{"video":{"server":4,"ip":"35.246.105.38","Name":"nature_02","file":"nature_02.mp4","thumb":"nature_02.JPG","pic":"nature_02.JPG","uuid":"31053444-4b35-4336-860b-db62f2aa8d4a","category":"cassandra"}}
+{"video":{"server":4,"ip":"35.246.105.38","Name":"nature_03","file":"nature_03.mp4","thumb":"nature_03.JPG","pic":"nature_03.JPG","uuid":"45fcbe1d-3f94-4f42-89c4-2972db60c961","category":"erlang"}}
